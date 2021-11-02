@@ -8,9 +8,11 @@ This repository relies on the [gdown](https://github.com/wkentaro/gdown) library
 
 ## 1. Create csv files with names and links
 
-Use Google Sheets functionality to get all the names and links into a google sheet and then download as multiple csv files: https://drive.google.com/drive/folders/108x3iNiCRmJx9s-pa05xH6vKLyg_1zbh?usp=sharing
+Credit: this part is a copied and modified version of the solution provided to [this question](https://webapps.stackexchange.com/questions/88769/get-share-link-of-multiple-files-in-google-drive-to-put-in-spreadsheet) on stackexchange.
 
-Save the csv files into `names_and_links`.
+Use Google Sheets functionality to get all the names and links into a google sheet and then download as multiple csv files. [This folder](https://drive.google.com/drive/folders/108x3iNiCRmJx9s-pa05xH6vKLyg_1zbh?usp=sharing) contains my google sheet. `script.txt` file is not needed to be there - it is made to record code.
+
+Save the 3 sheets from the google sheets files into separate csv files in `names_and_links`.
 
 ## 2. Create files to record which of the files have already been downloaded and download all files
 

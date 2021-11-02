@@ -1,6 +1,6 @@
 # Download TCGA-lung files and Annotations from Google Drive
 
-**Source:** [WSI_TCGA-Lung](https://drive.google.com/drive/folders/1UobMSqJEqINX2izxrwbgprugjlTporSQ) Google Drive folder provided by [Bin Li](https://github.com/binli123) in [DSMIL: Multiple instance learning networks for tumor detection in Whole Slide Image](https://github.com/binli123/dsmil-wsi) repository.
+**Source:** [WSI-TCGA-Lung](https://drive.google.com/drive/folders/1UobMSqJEqINX2izxrwbgprugjlTporSQ) Google Drive folder provided by [Bin Li](https://github.com/binli123) in [DSMIL: Multiple instance learning networks for tumor detection in Whole Slide Image](https://github.com/binli123/dsmil-wsi) repository.
 
 This repository relies on the [gdown](https://github.com/wkentaro/gdown) library which can be used both from command line or from within Python scripts/notebooks.
 

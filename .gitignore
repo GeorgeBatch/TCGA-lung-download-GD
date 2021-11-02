@@ -1,0 +1,25 @@
+# exclude all Mac OS graphics
+*/.DS_Store
+.DS_Store
+
+# exclude all pycache files and ipynb checkpoints
+*/__pycache__
+*.pyc
+*.swp
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# exclude PyCharm .idea
+.idea
+
+# exclude everything except the download sctipts
+download_status
+TCGA-lung-WSI-corrupt
+TCGA-lung-wsi
+
+# exclude all the .svs files in root and other directories
+# noticed .svs.parcel files, so ignoring them too
+*.svs
+*.svs*
+*/*.svs
+*/*.svs*
